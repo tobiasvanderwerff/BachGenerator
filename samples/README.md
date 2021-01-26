@@ -6,5 +6,5 @@ Note that the LSTM can indefinitely sample new notes, so it never really 'finish
 For samples 5, 6 and 7, I fed the model the first 7 seconds of 'Contrapunctus I' from Bach's Art of Fugue, and let it generate notes based on that. Samples 1, 2, 3 and 4 are not given any 'warm-up' input.
 
 Here are some of my personal highlights:
-- sample1 1:58 - 2:40
+- sample1: 1:58 - 2:40
 - sample2: 3:39 - 4:14
